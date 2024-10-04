@@ -1,2 +1,2 @@
-# Search-Engine
- Processes web pages, builds inverted indices, and supports complex user queries.
+# Search Engine Project Summary!
+This project is a command-line tool written in C++ for encrypting and decrypting text using caesar and substitution ciphers. It features a hill-climbing algorithm to optimize the decryption of substitution ciphers by iteratively improving a random key based on English language frequency analysis. The program supports quadgram scoring to measure the accuracy of decryption and maintains original punctuation and spaces in the output text. The tool is designed for ease of use and can handle complex inputs while preserving text structure.
